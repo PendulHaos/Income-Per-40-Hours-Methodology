@@ -91,7 +91,7 @@ Everything above is argued in full, with the numbers, in the methodology documen
 **To cite this work:**
 
 PendulHaos (2026). *Income per 40 hours: a household-hours-normalised measure of real earnings in the United States, 1975-2024.*
-https://github.com/PendulHaos/Income-Per-40-Hours-Methodology
+https://doi.org/10.5281/zenodo.22905028
 
 **Data sources:** IPUMS CPS, University of Minnesota, www.ipums.org. Source
 data provided by the US Census Bureau and the Bureau of Labor Statistics.
