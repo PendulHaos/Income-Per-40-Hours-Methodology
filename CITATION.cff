@@ -7,6 +7,10 @@ message: >-
   please cite it as below.
 type: dataset
 repository-code: https://github.com/PendulHaos/Income-Per-40-Hours-Methodology
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22905028
+    description: Concept DOI for all versions
 authors:
   - name: PendulHaos
     website: https://www.youtube.com/@pendulhaos
