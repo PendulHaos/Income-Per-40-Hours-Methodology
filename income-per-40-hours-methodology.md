@@ -2,6 +2,8 @@
 
 **A household-hours-normalised measure of real earnings, income years 1975 and 2024**
 
+DOI: https://doi.org/10.5281/zenodo.22905028
+
 By PendulHaos · https://www.youtube.com/@PendulHaos
 Licensed CC BY 4.0. Replication code and data instructions: [https://github.com/PendulHaos/Income-Per-40-Hours-Methodology]
 
