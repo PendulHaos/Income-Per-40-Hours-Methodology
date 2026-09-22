@@ -1,5 +1,7 @@
 # Income per 40 hours
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22905028.svg)](https://doi.org/10.5281/zenodo.22905028)
+
 By **[PendulHaos](https://www.youtube.com/@PendulHaos)** · CC BY 4.0
 
 A household-hours-normalised measure of real earnings in the United States, income years 1975 to 2024.
